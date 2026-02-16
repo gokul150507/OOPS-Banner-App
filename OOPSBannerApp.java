@@ -8,8 +8,8 @@
 * @author Developer
 * @version 1.0
 */
-public class 00PSBannerApp {
-    Run Debug
+public class OOPSBannerApp {
+    Run Debug;
     public static void main(String[] args) {
         System.out.println("0OPS");
     }
